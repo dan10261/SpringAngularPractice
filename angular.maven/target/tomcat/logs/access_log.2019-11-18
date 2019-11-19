@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:23:54:06 -0500] "GET /angular.maven HTTP/1.1" 302 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:23:54:06 -0500] "GET /angular.maven/ HTTP/1.1" 404 949 http-bio-8080-exec-3 294
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:23:54:31 -0500] "GET /angular.maven/user/login HTTP/1.1" 404 949 http-bio-8080-exec-4 4
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:23:55:36 -0500] "GET /angular.maven/user/login HTTP/1.1" 404 1009 http-bio-8080-exec-2 157
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:23:59:48 -0500] "GET /angular.maven/user/login HTTP/1.1" 404 1009 http-bio-8080-exec-2 145
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:23:59:49 -0500] "GET /angular.maven/user/login HTTP/1.1" 404 1009 http-bio-8080-exec-3 2
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:23:59:49 -0500] "GET /angular.maven/user/login HTTP/1.1" 404 1009 http-bio-8080-exec-4 4
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:23:59:49 -0500] "GET /angular.maven/user/login HTTP/1.1" 404 1009 http-bio-8080-exec-5 6
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:23:59:50 -0500] "GET /angular.maven/user/login HTTP/1.1" 404 1009 http-bio-8080-exec-6 7
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:23:59:50 -0500] "GET /angular.maven/user/login HTTP/1.1" 404 1009 http-bio-8080-exec-7 3
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:23:59:50 -0500] "GET /angular.maven/user/login HTTP/1.1" 404 1009 http-bio-8080-exec-8 2
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:23:59:51 -0500] "GET /angular.maven/user/login HTTP/1.1" 404 1009 http-bio-8080-exec-9 5
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:23:59:55 -0500] "GET /angular.maven/user/ HTTP/1.1" 404 949 http-bio-8080-exec-10 3
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:23:59:59 -0500] "GET /angular.maven/user/login HTTP/1.1" 404 1009 http-bio-8080-exec-10 1
